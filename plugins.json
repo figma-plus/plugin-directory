@@ -2,26 +2,26 @@
 	{
 		"id": "find-and-replace",
 		"github": "https://github.com/jackiecorn/figma-find-and-replace-desktop/",
-		"approvedVersion": "1.0.1",
-		"approvedCommit": "38753341daa7939fae90a38898e5c9fc2ec5b933"
+		"approvedVersion": "1.0.0",
+		"approvedCommit": "3c77aa8f6916082c00f8cb6a82d1d0de8d62b3f2"
 	},
 	{
 		"id": "power-platform-theme-switcher",
 		"github": "https://github.com/jackiecorn/power-platform-theme-switcher/",
-		"approvedVersion": "1.0.3",
-		"approvedCommit": "2a691a4cbd9868cc47332560208e14496c0486ff"
+		"approvedVersion": "1.0.0",
+		"approvedCommit": "ced93c24f275b448a0be36b551bf68dc7ecdc286"
 	},
 	{
 		"id": "open-in-desktop",
 		"github": "https://github.com/jackiecorn/figma-open-in-desktop/",
 		"approvedVersion": "1.0.0",
-		"approvedCommit": "a1aa7a7d134ebf0ef59040d5e92f8e41a9adbcca"
+		"approvedCommit": "f1e0447565d70e0bbe260f4f3949c102196bc4db"
 	},
 	{
 		"id": "power-platform-library-enabler",
 		"github": "https://github.com/jackiecorn/power-platform-library-enabler/",
 		"approvedVersion": "1.0.0",
-		"approvedCommit": "ab084f0e7b1367c3968e6672281bd8368f01cefd"
+		"approvedCommit": "1df9e1127681f3bf20213ebdfc7d342c6ef1639b"
 	},
 	{
 		"id": "figma-advanced-rename-plugin",
@@ -50,26 +50,26 @@
 	{
 		"id": "files-list-view",
 		"github": "https://github.com/jackiecorn/figma-files-list-view/",
-		"approvedVersion": "1.0.3",
-		"approvedCommit": "9b878ccd7cbbc6d72e89ca31889fad592d4656ab"
+		"approvedVersion": "1.0.0",
+		"approvedCommit": "4d718f3aec6430cfe68056e2c7d7f4c792b82677"
 	},
 	{
 		"id": "paste-and-replace",
 		"github": "https://github.com/jackiecorn/figma-paste-and-replace/",
-		"approvedVersion": "1.0.1",
-		"approvedCommit": "0000060898756a94f5ee10442063166be6d640ec"
+		"approvedVersion": "1.0.0",
+		"approvedCommit": "f3c2d012f091398f309c27a3269463543370e6ce"
 	},
 	{
 		"id": "replace-with-component",
 		"github": "https://github.com/jackiecorn/figma-replace-with-component/",
-		"approvedVersion": "1.0.1",
-		"approvedCommit": "eb06779df41e0eb8beb65790cef7475715dde0b7"
+		"approvedVersion": "1.0.0",
+		"approvedCommit": "3837c2589d4572ec91ce304b51f226406a84e3c3"
 	},
 	{
 		"id": "paste-to-all",
 		"github": "https://github.com/jackiecorn/figma-paste-to-all/",
-		"approvedVersion": "1.1.0",
-		"approvedCommit": "27e187c050507b04d0f10dc788e952b1d3bd6a9a"
+		"approvedVersion": "1.0.0",
+		"approvedCommit": "407b52b5697d465b8845cda0c6e5a07e7663ede5"
 	},
 	{
 		"id": "figma-material-design-icons-plugin",
