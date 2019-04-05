@@ -12,12 +12,6 @@
 		"approvedCommit": "ced93c24f275b448a0be36b551bf68dc7ecdc286"
 	},
 	{
-		"id": "open-in-desktop",
-		"github": "https://github.com/jackiecorn/figma-open-in-desktop/",
-		"approvedVersion": "1.0.0",
-		"approvedCommit": "f1e0447565d70e0bbe260f4f3949c102196bc4db"
-	},
-	{
 		"id": "power-platform-library-enabler",
 		"github": "https://github.com/jackiecorn/power-platform-library-enabler/",
 		"approvedVersion": "1.0.0",
@@ -50,8 +44,8 @@
 	{
 		"id": "files-list-view",
 		"github": "https://github.com/jackiecorn/figma-files-list-view/",
-		"approvedVersion": "1.0.0",
-		"approvedCommit": "4d718f3aec6430cfe68056e2c7d7f4c792b82677"
+		"approvedVersion": "1.0.1",
+		"approvedCommit": "8ac156861d81afdac19fb1f07f868df56b6e27c0"
 	},
 	{
 		"id": "paste-and-replace",
