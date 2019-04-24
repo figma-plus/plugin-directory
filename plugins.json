@@ -68,8 +68,8 @@
 	{
 		"id": "figma-material-design-icons-plugin",
 		"github": "https://github.com/cdes/figma-material-design-icons-plugin/",
-		"approvedVersion": "0.0.3",
-		"approvedCommit": "607df7cb69ddf3d6c0d98515f9e31c1d0b09f2db"
+		"approvedVersion": "0.0.4",
+		"approvedCommit": "e708ed97b047d55fabe65a10342f3a678b049b31"
 	},
 	{
 		"id": "figma-dark-ui-plugin",
