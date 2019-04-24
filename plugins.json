@@ -38,8 +38,8 @@
 	{
 		"id": "figma-automations-plugin",
 		"github": "https://github.com/cdes/figma-automations-plugin/",
-		"approvedVersion": "0.0.2",
-		"approvedCommit": "72dcef1358bc1a45b27f14934a390af4a2926a83"
+		"approvedVersion": "0.0.3",
+		"approvedCommit": "05e4d8bb593cb8d74b5e8b612bae604e2d1b332b"
 	},
 	{
 		"id": "files-list-view",
