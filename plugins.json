@@ -26,8 +26,8 @@
 	{
 		"id": "figma-content-generator-plugin",
 		"github": "https://github.com/cdes/figma-content-generator-plugin/",
-		"approvedVersion": "0.50.5",
-		"approvedCommit": "6f8aa394c641a6839666e321f132f99d2320f32f"
+		"approvedVersion": "0.6.0",
+		"approvedCommit": "33f619efa1bc41aaf6b37cf4ca4dd894d3eefe22"
 	},
 	{
 		"id": "figma-arabic-support-plugin",
