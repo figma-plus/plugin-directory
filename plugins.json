@@ -44,8 +44,8 @@
 	{
 		"id": "files-list-view",
 		"github": "https://github.com/jackiecorn/figma-files-list-view/",
-		"approvedVersion": "1.0.1",
-		"approvedCommit": "8ac156861d81afdac19fb1f07f868df56b6e27c0"
+		"approvedVersion": "1.0.2",
+		"approvedCommit": "f649da4ab4f4eff118b99db3bdf6ff547df16474"
 	},
 	{
 		"id": "paste-and-replace",
