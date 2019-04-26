@@ -50,14 +50,14 @@
 	{
 		"id": "paste-and-replace",
 		"github": "https://github.com/jackiecorn/figma-paste-and-replace/",
-		"approvedVersion": "1.0.1",
-		"approvedCommit": "920fd7a5a016eeb8edf91c8339e05659ddd5f209"
+		"approvedVersion": "1.0.2",
+		"approvedCommit": "0baeedddc67c9420306a162afec0ea478a9f3cb5"
 	},
 	{
 		"id": "replace-with-component",
 		"github": "https://github.com/jackiecorn/figma-replace-with-component/",
-		"approvedVersion": "1.0.2",
-		"approvedCommit": "9aa6a1443ae61fec18e2e926db6a52ac05b2733c"
+		"approvedVersion": "1.0.4",
+		"approvedCommit": "92ff8fdbc5d60c476bdd3df5d3dc7a69964b2c3c"
 	},
 	{
 		"id": "paste-to-all",
