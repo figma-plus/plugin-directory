@@ -20,8 +20,8 @@
 	{
 		"id": "figma-advanced-rename-plugin",
 		"github": "https://github.com/cdes/figma-advanced-rename-plugin/",
-		"approvedVersion": "2.0.4",
-		"approvedCommit": "72d0b84eb40480204e8e0ec1825638fdabf49b77"
+		"approvedVersion": "2.0.5",
+		"approvedCommit": "ba0611595d0e4c93472ea60c605cda223cc02c89"
 	},
 	{
 		"id": "figma-content-generator-plugin",
