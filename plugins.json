@@ -56,8 +56,8 @@
 	{
 		"id": "replace-with-component",
 		"github": "https://github.com/jackiecorn/figma-replace-with-component/",
-		"approvedVersion": "1.0.1",
-		"approvedCommit": "6981abe55998422857111b537f0c50a74064d996"
+		"approvedVersion": "1.0.2",
+		"approvedCommit": "9aa6a1443ae61fec18e2e926db6a52ac05b2733c"
 	},
 	{
 		"id": "paste-to-all",
