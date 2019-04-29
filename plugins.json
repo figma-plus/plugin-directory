@@ -8,8 +8,8 @@
 	{
 		"id": "power-platform-theme-switcher",
 		"github": "https://github.com/jackiecorn/power-platform-theme-switcher/",
-		"approvedVersion": "1.0.0",
-		"approvedCommit": "ced93c24f275b448a0be36b551bf68dc7ecdc286"
+		"approvedVersion": "1.0.1",
+		"approvedCommit": "3397e575fda589652f70e4279fa8dd19ebef829e"
 	},
 	{
 		"id": "power-platform-library-enabler",
