@@ -62,8 +62,8 @@
 	{
 		"id": "paste-to-all",
 		"github": "https://github.com/jackiecorn/figma-paste-to-all/",
-		"approvedVersion": "1.0.1",
-		"approvedCommit": "daa1bcf1faff42963dcc4667b69b525988b49719"
+		"approvedVersion": "1.1.0",
+		"approvedCommit": "99dd84e406b1845c5cc41ab43ce35626df7e9656"
 	},
 	{
 		"id": "figma-material-design-icons-plugin",
