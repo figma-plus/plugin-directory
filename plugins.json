@@ -76,5 +76,11 @@
 		"github": "https://github.com/PaperTiger/figma-dark-ui/",
 		"approvedVersion": "0.0.7",
 		"approvedCommit": "959c28da7c9a25a4ddf26bed033649162b21877b"
+	},
+	{
+	        "id": "figma-rtl",
+	        "github": "https://github.com/iddan/figma-rtl",
+	        "approvedVersion": "1.0.0",
+	        "approvedCommit": "72f52f2d02ce7a11203ed965fe545900f2ce4587"
 	}
 ]
