@@ -14,8 +14,8 @@
 	{
 		"id": "power-platform-library-enabler",
 		"github": "https://github.com/jackiecorn/power-platform-library-enabler/",
-		"approvedVersion": "1.0.1",
-		"approvedCommit": "503e93bd685fdd2dfbb8dac394efab26368fbf7f"
+		"approvedVersion": "1.0.2",
+		"approvedCommit": "08df33ad43e764c0e57880cce252d223207c6bc0"
 	},
 	{
 		"id": "figma-advanced-rename-plugin",
