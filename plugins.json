@@ -74,8 +74,8 @@
 	{
 		"id": "figma-dark-ui-plugin",
 		"github": "https://github.com/PaperTiger/figma-dark-ui/",
-		"approvedVersion": "0.0.7",
-		"approvedCommit": "959c28da7c9a25a4ddf26bed033649162b21877b"
+		"approvedVersion": "0.0.8",
+		"approvedCommit": "a8e164ffea7b01e9c8329c4981deaa0736bb7a9b"
 	},
 	{
 	        "id": "figma-rtl",
