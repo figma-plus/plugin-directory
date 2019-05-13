@@ -32,8 +32,8 @@
 	{
 		"id": "figma-arabic-support-plugin",
 		"github": "https://github.com/cdes/figma-arabic-support-plugin/",
-		"approvedVersion": "0.0.7",
-		"approvedCommit": "9350bf36aafd06f3a5252af2782575c6fa07bb8b"
+		"approvedVersion": "0.0.8",
+		"approvedCommit": "4ffef70c01d3ec01078dd05fbeaf49030448e310"
 	},
 	{
 		"id": "figma-automations-plugin",
