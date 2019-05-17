@@ -88,5 +88,11 @@
 		"github": "https://github.com/iconify/iconify-figma-plus/",
 		"approvedVersion": "1.0.0",
 		"approvedCommit": "2799c917a2aef02e4f700d91b94f2680951cdbf1"
+	},
+	{
+		"id": "figma-to-marvel",
+		"github": "https://github.com/marvelapp/FigmaToMarvel",
+		"approvedVersion": "0.0.1",
+		"approvedCommit": "d3907310abffa8a6582dde073125aeb0a5d0acd4"
 	}
 ]
