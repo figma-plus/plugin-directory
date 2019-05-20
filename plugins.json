@@ -86,8 +86,8 @@
 	{
 		"id": "iconify-figma-plus",
 		"github": "https://github.com/iconify/iconify-figma-plus/",
-		"approvedVersion": "1.0.0",
-		"approvedCommit": "2799c917a2aef02e4f700d91b94f2680951cdbf1"
+		"approvedVersion": "1.0.1",
+		"approvedCommit": "89bd7aa5adff8400fb504c4dc5549828eb9109ab"
 	},
 	{
 		"id": "figma-to-marvel",
